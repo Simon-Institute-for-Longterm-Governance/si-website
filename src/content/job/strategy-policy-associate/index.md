@@ -1,7 +1,7 @@
 ---
 title: Strategy & Policy Associate
 subtitle: ""
-featuredImage: SPA.JPG
+featuredImage: SPA.jpg
 category: All
 tags:
   - All
