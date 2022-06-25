@@ -22,7 +22,7 @@ textSections:
       If you could be a great addition, [fill out this form](https://airtable.com/shrdAb3PgjzY49EeZ) and we'll be in touch.
   - title: What we expect
     content: >-
-      The ideal candidate has at least two years of work experience, was top of their class and is eager to learn and develop themselves. You will have to be willing to move to Geneva, as we do not yet have the capacity for continuous remote work. We expect you to be motivated to stay at the organization for at least 3 years while it grows into a mature organization. As SI has just started, you will have to show a lot of initiative and be willing to lean into stress to resolve conflicts. 
+      The ideal candidate has at least two years of work experience, was top of their class and is eager to learn and develop themselves. You will have to be willing to move to Geneva, as we do not yet have the capacity for continuous remote work. We expect you to be motivated to stay at the organization for at least 3 years while it grows into a mature organization. As SI has just started, you will have to show initiative and be willing to lean into stress to resolve conflicts. 
 
     Below is an overview of knowledge & skills we expect the ideal candidate to have. These aren’t necessary conditions. As this is our first hiring round, we are not highly confident in our ability to predict the profile of the perfect candidate. We encourage anyone who can handle the responsibilities outlined above to apply.
     * Fluent English & French - written & oral (bonus: Spanish, German, or Arabic)
@@ -36,15 +36,14 @@ textSections:
     * Basic understanding of the UN system and international affairs (bonus: experience working with developing countries; in a disarmament or disaster risk reduction context)
 
 
-  - content: >-
+  - title: What we offer
+    content: >-
      * Pay commensurate with experience, on an indefinite contract (CHF 72’000-84’000/year)
      * A dynamic environment with an ambitious co-founder team of 7 years
      * An opportunity for varied personal development in an impact-focused organization
      * An inclusive and feedback-rich culture with plenty of intellectual stimulation
      * A network from civil society, to academia, the private sector and governments
      * Visa sponsorship for exceptional non-EU candidates
-
-    title: What we offer
 
 card:
   title: ""
