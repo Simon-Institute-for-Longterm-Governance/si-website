@@ -31,23 +31,6 @@ const Home = ({ data, location }) => {
           description={pageData.seo?.description || pageData.subtitle}
         />
         <BaseSection>
-          <KeyfactsSection>
-            {pageData.keyfactsSection.map(keyfact => {
-              return (
-                <Keyfact
-                  title={keyfact.title}
-                  content={keyfact.description}
-                  link={keyfact.link}
-                  key={`keyfact_${keyfact.title}`}
-                />
-              )
-            })}
-          </KeyfactsSection>
-        </BaseSection>
-
-        <hr></hr>
-
-        <BaseSection>
           <div className="blog-posts-section">
             <CardsSection
               title={pageData.postsSection.newsSection.title}
