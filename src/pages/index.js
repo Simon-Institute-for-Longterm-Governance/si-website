@@ -72,30 +72,6 @@ const Home = ({ data, location }) => {
                 )
               })}
             </CardsSection>
-            <CardsSection
-              title={pageData.postsSection.eventsSection.title}
-              link={pageData.postsSection.eventsSection.link}
-              numberOfColumns={1}
-              fixAlignment
-            >
-              {events.map(post => {
-                const postImage =
-                  post.frontmatter?.featuredImage?.childImageSharp?.fluid
-                if (postImage) {
-                  postImage.srcSet = updateSrcSet(postImage?.srcSet, 750)
-                }
-                return (
-                  <Card
-                    key={`events_card_${post.fields.slug}`}
-                    url={post.fields.slug}
-                    image={postImage}
-                    title={post.frontmatter.title}
-                    subtitle={post.frontmatter.date}
-                    content={post.frontmatter.description || post.excerpt}
-                  />
-                )
-              })}
-            </CardsSection>
           </div>
         </BaseSection>
         
