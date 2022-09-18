@@ -35,7 +35,7 @@ const Home = ({ data, location }) => {
             <CardsSection
               title={pageData.postsSection.newsSection.title}
               link={pageData.postsSection.newsSection.link}
-              numberOfColumns={3}
+              numberOfColumns={5}
             >
               {news.map(post => {
                 const postImage =
