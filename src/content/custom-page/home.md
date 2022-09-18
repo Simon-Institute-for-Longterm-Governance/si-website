@@ -24,16 +24,13 @@ keyfactsSection:
       title: Connect
       url: /get-involved/
 featuredProjectsSection:
-  title: Featured projects
+  title: Current work
   projectsByCategory:
-    - category: Policy support
-      title: Policy support
-      description: Our knowledge and network improve global catastrophic risk governance.
-      orientation: cards-on-the-right
     - category: Field-building
-      title: Field-building
-      description: We coordinate exchange and synthesize knowledge on long-term governance.
-      orientation: cards-on-the-left
+      title: ""
+      description: We advance future-proof policymaking by synthesizing knowledge, 
+        developing tools, and coordinating a community of practice.
+      orientation: cards-on-the-right
 postsSection:
   newsSection:
     title: Recent
