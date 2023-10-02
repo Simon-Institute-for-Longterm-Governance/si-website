@@ -1,5 +1,5 @@
 ---
-title: Our work
+title: Our Work
 subtitle: ""
 projectsByCategories:
   - category: Field-building
@@ -17,6 +17,14 @@ projectsByCategories:
       specialized advice to policy actors. We focus on processes that promote
       long-term thinking, enhance risk mitigation, and strengthen global
       technology governance.
+  - category: Facilitation
+    title: Facilitation
+    description: With strong connections in academia, the multilateral system, and
+      leading research labs, we’re able to effectively bring stakeholders
+      together. We foster collaboration and information sharing through our
+      workshops, meetings, and events, bridging the gap between technological
+      innovation and policymaking, while also nurturing a network of like-minded
+      actors.
 seo:
   title: ""
   description: ""
