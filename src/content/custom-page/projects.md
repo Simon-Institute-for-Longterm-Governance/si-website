@@ -23,7 +23,7 @@ projectsByCategories:
       leading research labs, we’re able to effectively bring stakeholders
       together. We foster collaboration and information sharing through our
       workshops, meetings, and events, bridging the gap between technological
-      innovation and policymaking, while also nurturing a network of like-minded
+      innovation and policymaking, and nurturing a network of like-minded
       actors.
 seo:
   title: ""
