@@ -4,5 +4,6 @@ photo: 1646077786169.jpg
 group: Collaborators
 role: Research Affiliate
 links:
-  website: https://www.linkedin.com/in/claireedithdennis/
+  website: ""
+  linkedin: https://www.linkedin.com/in/claireedithdennis/
 ---
