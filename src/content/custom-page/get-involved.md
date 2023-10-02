@@ -38,7 +38,8 @@ donateSection:
   title: Donate
   intro:
     content: We currently estimate our room for more funding until the end of 2025
-      to be around CHF 2,800,000. Any amount will directly help us to do more.
+      to be between CHF 2,800,000 - 5,500,000. Any amount will directly help us
+      to do more.
     button:
       text: Donate
       url: https://docs.google.com/document/d/1SYvmxxe8_f2ZQmE3s77t60uqZB2RQTbg944E7w45UCM/edit?usp=sharing
