@@ -35,7 +35,7 @@ textSections:
 
 
       Since our founding in 2021, we’ve contributed to key [intergovernmental processes](https://simoninstitute.shorthandstories.com/sendai/index.html) for reducing global risks, held numerous [workshops](https://www.simoninstitute.ch/blog/post/workshop-proceedings-future-proofing-the-multilateral-system/) with researchers and policymakers to coordinate multilateral action, and delivered the first [UN report](https://sendaiframework-mtr.undrr.org/publication/thematic-study-existential-risk-and-rapid-technological-change-advancing-risk-informed) on existential risk and rapid technological change. To learn more about our work, you can see [here](https://www.simoninstitute.ch/our-work/).
-  - title: Our focus areas
+  - title: Focus areas
     content: >-
       ### Cultivating effective multilateralism 
 
@@ -43,13 +43,13 @@ textSections:
       Humanity is facing challenges that are increasingly global in scale and can only be effectively addressed by countries working together. As an inclusive platform to coordinate international action, the multilateral system is the best available avenue for pursuing shared solutions. SI works with actors across the multilateral system to find synergies, share information, and build capacity.
 
 
-      ### **Enhancing global technology governance**
+      ### Enhancing global technology governance
 
 
       New technologies hold immense potential and risks. Effective governance is vital, yet the speed of technological change often outpaces policy adjustments. At SI, we support policymakers by translating the latest science on technological risks and opportunities into concrete advice. By collaborating with policymakers to shape governance structures, we aim to enhance global technology governance to be more responsive, agile, and inclusive.
 
 
-      ### **Shifting policy focus towards the long-term**
+      ### Shifting policy focus towards the long-term
 
 
       The attention of the multilateral system is consumed by current affairs, leading to a frequent neglect of emerging risks, especially those from complex, new technologies. SI endeavors to shift policy mindsets by providing insight into frontier technologies, raising awareness about the importance of long-term thinking, and advocating for policies that consider future generations.
@@ -67,17 +67,19 @@ textSections:
       We're dedicated to bridging the gap between technological innovation and policy-making, with a longstanding focus on technological change and global catastrophic risks predating the Covid-19 pandemic and the emergence of large language models like ChatGPT. Our focus is strengthened by access to a broad pool of expertise and privileged connections within both the multilateral system and the frontier research community, making us a unique actor in Geneva.
   - title: "Transparency "
     content: >-
-      SI is a registered non-profit in Switzerland, operating independently and
-      without affiliation to any political parties. 
+      ### Governance
+
+
+      SI is a registered non-profit in Switzerland, operating independently and without affiliation to any political parties. You can view our board of trustees and governance structure [here](https://docs.google.com/document/d/1SCrxwdxmAzuzyGqBooBMD9zvRlUsxI1dnaK2rAPb9uw/edit?usp=sharing). 
+
+
+      ### Reporting
 
 
       Our funding comes from various private and philanthropic donors, all of whom respect our independence in resource allocation. You can refer to our annual reports for further information about our activities and funding sources.
 
 
-      [2021-2022 Annual Report](https://drive.google.com/file/d/1Pv1byxONMpHLzgBfuAPN5yztMDc1Jazc/view?usp=sharing)
-
-
-      [2021-2022 Financial Report](https://drive.google.com/file/d/1Rfv7nb0wKxtceld9sd2DsXgKHj-zKblG/view?usp=sharing)
+      [2021-2022 Annual Report](https://drive.google.com/file/d/1Pv1byxONMpHLzgBfuAPN5yztMDc1Jazc/view?usp=sharing) and [Financial Report](https://drive.google.com/file/d/1Rfv7nb0wKxtceld9sd2DsXgKHj-zKblG/view?usp=sharing)
 teamSection:
   title: Our team
 herbertSimonSection:
