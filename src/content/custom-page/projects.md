@@ -1,30 +1,23 @@
 ---
-title: Projects
-subtitle: This page is due for an update. Please, check out our blog for recent
-  information on what we are up to.
+title: Our work
+subtitle: ""
 projectsByCategories:
-
   - category: Field-building
-    title: Field-building
-    description: >-
-      This page is due for an update. We foster a network of practitioners, 
-      researchers, and donors working together towards long-term governance. 
-      To ground our work, we also[submit our thoughts to 
-      peer-review](/blog/post/building-the-field-of-long-term-governance-si%E2%80%99s-research-approach/).
-
-
+    title: Knowledge Synthesis
+    description: We synthesize knowledge, creating reports, briefings, and
+      presentations at the intersection of long-term governance, technology
+      governance, and multilateralism. We translate complex scientific,
+      technological and policy concepts into accessible language, to ensure that
+      decision-makers understand and act on policy-relevant developments
+      effectively.
   - category: Policy support
-    title: Policy support
-    description: >-
-      This page is due for an update.
-      
-      We help international civil servants and researchers resolve coordination
-      bottlenecks at the global catastrophic risk science-policy interface.
-
-
+    title: Policy Support
+    description: We inform multilateral policy processes, especially via the UN and
+      OECD systems, through written recommendations, panel engagements, and
+      specialized advice to policy actors. We focus on processes that promote
+      long-term thinking, enhance risk mitigation, and strengthen global
+      technology governance.
 seo:
   title: ""
-  description: Policymaking is characterized by complexity. We help policy
-    networks grapple productively with it in our workshops, coordinate a network
-    for long-term governance, and conduct research to increase our impact.
+  description: ""
 ---
