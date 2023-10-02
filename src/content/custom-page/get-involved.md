@@ -14,10 +14,10 @@ workWithUsSection:
         related projects.
       button:
         text: Get In Touch
-        url: https://www.simoninstitute.ch/contact/#get-in-touch
+        url: /contact/#get-in-touch
     - title: Partner
       content: We’re always seeking to build lasting relationships with aligned
-        institutions.[Get in touch](/get-involved/#get-in-touch) ↓
+        institutions.[Get in touch](/contact/#get-in-touch) ↓
       button:
         text: Get In Touch
         url: https://www.simoninstitute.ch/contact/#get-in-touch
