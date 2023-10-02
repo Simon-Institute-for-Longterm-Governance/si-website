@@ -1,5 +1,5 @@
 ---
-title: Get involved
+title: Contact
 subtitle: ""
 workWithUsSection:
   title: Work with us
