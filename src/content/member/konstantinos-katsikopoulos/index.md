@@ -1,7 +1,7 @@
 ---
 name: Prof. Konstantinos Katsikopoulos
 photo: konstantinos-katsikopoulos.jpg
-group: Governing board
+group: Alumni
 role: Board member
 links:
   website: https://www.southampton.ac.uk/business-school/about/staff/kk2g16.page
