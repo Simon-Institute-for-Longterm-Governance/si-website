@@ -19,14 +19,14 @@ keyfactsSection:
       facilitation.
     link:
       title: More
-      url: /projects/
+      url: /our-work/
   - title: Get Involved
     description: "If you’re interested in learning more about our work,
       collaborating with us, or supporting our efforts, feel free to get in
       touch. We’re always happy to connect and share insights. "
     link:
       title: Connect
-      url: /get-involved/
+      url: /contact/
 featuredProjectsSection:
   title: Featured projects
   projectsByCategory:
