@@ -10,25 +10,20 @@ workWithUsSection:
         text: Apply
         url: https://airtable.com/shrmrPRmaSylt2ljL
     - title: Collaborate
-      content: |-
-        We are happy to support individuals working on related projects. 
-
-        [Get in touch](/get-involved/#get-in-touch) ↓
+      content: We’re happy to support or collaborate with individuals working on
+        related projects.
       button:
-        text: ""
-        url: ""
+        text: Get In Touch
+        url: https://www.simoninstitute.ch/contact/#get-in-touch
     - title: Partner
-      content: |-
-        We are building lasting relationships with aligned institutions.
-
-        [Get in touch](/get-involved/#get-in-touch) ↓
+      content: We’re always seeking to build lasting relationships with aligned
+        institutions.[Get in touch](/get-involved/#get-in-touch) ↓
       button:
-        text: ""
-        url: ""
+        text: Get In Touch
+        url: https://www.simoninstitute.ch/contact/#get-in-touch
 getInTouchSection:
   title: Get in touch
-  intro: |
-    Questions, comments, propositions? Get in touch!
+  intro: Questions, comments, or propositions? Get in touch!
 stayInTouchSection:
   title: Stay up to date
   newsletter:
@@ -42,9 +37,8 @@ stayInTouchSection:
 donateSection:
   title: Donate
   intro:
-    content: We currently estimate our room for more funding until the end of 2023
-      to be around CHF1,600,000. Any amount directly enables us to do more.
-      [Check out our plans and strategy here.](/blog/tag/strategy/)
+    content: We currently estimate our room for more funding until the end of 2025
+      to be around CHF 2,800,000. Any amount will directly help us to do more.
     button:
       text: Donate
       url: https://docs.google.com/document/d/1SYvmxxe8_f2ZQmE3s77t60uqZB2RQTbg944E7w45UCM/edit?usp=sharing
@@ -53,32 +47,15 @@ donateSection:
       content: |-
         **Name:** Simon Institute for Longterm Governance <br />
         **IBAN:** CH67 0021 5215 1374 8301 K <br />
-        *This is tax-deductible in CH only.*
-    - title: From D, NL, UK, or US? Or want to donate crypto?
-      content: From the USA, UK, or Netherlands? You can [make tax-deductible
+        *This is tax-deductible in Switzerland only.*
+    - title: From the Netherlands, the UK, or the US?
+      content: If you’re from one of these countries, you can [make tax-deductible
         donations via our partner organization "Giving What We
         Can"](https://www.givingwhatwecan.org/charities/simon-institute). They
-        also take crypto. For donations from Germany, please [get in
-        touch](/get-involved/#get-in-touch).
-textSections:
-  - title: Why support us?
-    content: >-
-      ### Science to policy
-
-
-      The knowledge base on longtermism and global catastrophic risks is expanding rapidly. SI empowers policymakers to make sense of all the information and act in the face of uncertainty.
-
-
-      ### Timely and timeless
-
-
-      SI’s mission and approach resonate with current trends and demands in policy networks. Our targeted support and long-term focus make us a unique ally for sustainable change.
-
-
-      ### Multilateral
-
-
-      We build crucial cooperation between actors with competing preferences by facilitating mutual understanding, information exchange, collective prioritization and policy learning.
+        also accept crypto. For donations from Germany and other countries,
+        please [get in
+        touch](https://www.simoninstitute.ch/contact/#get-in-touch).
+textSections: []
 seo:
   title: ""
   description: Interested in our approach? We're always looking for new ideas,
