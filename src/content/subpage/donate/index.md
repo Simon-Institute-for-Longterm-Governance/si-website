@@ -60,8 +60,6 @@ textSections:
       *Direct transfers to SI are tax-deductible in Switzerland only. For tax-deductible donations from other countries, please contact [konrad@simoninstitute.ch.](mailto:konrad@simoninstitute.ch) For donations from outside Switzerland that are not tax-deductible, we recommend using your local currency to minimize transaction fees.*
 
 
-      ```javascript
-
       <script type="text/javascript" id="ngos-ed-on-file-widget-script-17336c1f-917d-492b-bc53-225c95e103da">
        (function() {
        function async_load()
@@ -72,7 +70,6 @@ textSections:
        window.addEventListener('load', async_load, false);
        })();
        </script>
-      ```
     title: Donate
   - title: 2023-2024 Fundraising Round
     content: >-
