@@ -74,9 +74,6 @@ textSections:
 
 
       ![](/src/images/geneva-digital-stamp.jpg)
-
-
-      Test
 teamSection:
   title: Our team
   groups:
