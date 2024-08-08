@@ -53,18 +53,6 @@ textSections:
 
 
       The attention of the multilateral system is consumed by current affairs, leading to a frequent neglect of emerging risks, especially those from complex, new technologies. SI endeavors to shift policy mindsets by providing insight into frontier technologies, raising awareness about the importance of long-term thinking, and advocating for policies that consider future generations.
-  - title: Our approach
-    content: >-
-      ### Collaborative
-
-
-      At SI, we focus on cultivating lasting partnerships and providing timely, practical support. As an independent non-profit, we remain agile, in order to pivot and divert resources towards the most relevant and promising opportunities for lasting impact. Our transparent approach has earned the trust of a diverse range of partners, and solidified our reputation as skilled facilitators capable of catalyzing productive discussions across technology, policy, and academia.
-
-
-      ### Forward-looking
-
-
-      We're dedicated to bridging the gap between technological innovation and policymaking, with a longstanding focus on technological change and global catastrophic risks, predating the Covid-19 pandemic and the emergence of large language models like ChatGPT. Our focus is strengthened by access to a broad pool of expertise and privileged connections within both the multilateral system and the frontier research community, making us a unique actor in Geneva.
   - title: Transparency
     content: >-
       ### Governance
