@@ -80,6 +80,12 @@ textSections:
 
 
       **2021-2022** [Activity Report](https://docs.google.com/document/d/1uDlrpuaC7IX_TcRixXYu4BrhHRSi90xOhVvd9RVDqao/edit?usp=sharing) and [Financial Report](https://drive.google.com/file/d/1Rfv7nb0wKxtceld9sd2DsXgKHj-zKblG/view)
+
+
+      ![](/src/images/geneva-digital-stamp.png)
+
+
+      ![](/src/images/ngosource-2.0-23.01.17-make-the-most-le-inline.png)
 teamSection:
   title: Our team
   groups:
