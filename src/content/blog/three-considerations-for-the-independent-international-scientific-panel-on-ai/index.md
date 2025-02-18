@@ -2,7 +2,7 @@
 hide: false
 title: Three considerations for the Independent International Scientific Panel on AI
 date: 2025-02-18T17:43:03.639Z
-featuredImage: abstractun.jpg
+featuredImage: 0_2.jpg
 authors:
   - name: Kevin Kohler
     page: kevin-kohler/index
