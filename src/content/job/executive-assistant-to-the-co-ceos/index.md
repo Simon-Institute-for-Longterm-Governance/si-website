@@ -7,18 +7,6 @@ teaserText: The Simon Institute for Longterm Governance (SI) is seeking an
   communication, adaptability, and prioritization skills.
 textSections:
   - content: >-
-      Position: Executive Assistant to the Co-CEOs
-
-
-      Work percentage: 100%
-
-
-      Duty station: Geneva, Switzerland
-
-
-      Reporting to: co-CEO
-
-
       ### Summary
 
 
