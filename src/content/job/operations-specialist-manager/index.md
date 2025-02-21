@@ -102,7 +102,7 @@ textSections:
 
       * Parental leave and support: We offer maternity and paternity benefits that go beyond Swiss legal requirements: this includes up to 6 months of maternity leave, 60 days of flexible paternity leave, 100% salary coverage during leave, flexibility to work from home, unlimited breastfeeding breaks, parental PTO for childhood difficulties, and the option to work at 80% while being paid 100% in the first year after childbirth.
 
-      * Fitness: We reimburse fitness expenses of up to CHF 600 per year for full-time employees and proportionately for part-time employees.
+      * Wellbeing: We will reimburse wellbeing expenses of up to CHF600 gross per year per – this might include fitness, therapy, coaching - or anything else to support your personal wellbeing.
 
 
       If you enjoy supporting people, planning, and juggling many different tasks, we think you’d add a lot of value to our team. This role offers unique insight into SI’s structure, priorities, and decisions. The ideal candidate brings a strong alignment with our mission and culture, as well as:
