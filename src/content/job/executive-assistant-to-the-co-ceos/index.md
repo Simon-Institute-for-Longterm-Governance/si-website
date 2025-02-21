@@ -64,7 +64,7 @@ textSections:
 
       * Start date: As soon as possible, with a strong preference to start in April.
 
-      * Hours: Full-time, flexible hours and occasional travel.
+      * Hours: Full-time, flexible hours, and occasional travel.
 
       * Location: In-person in Geneva.
 
