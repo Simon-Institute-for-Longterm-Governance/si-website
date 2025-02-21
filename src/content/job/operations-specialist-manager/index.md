@@ -11,7 +11,7 @@ textSections:
       ### Summary
 
 
-      The Simon Institute for Longterm Governance (SI) is seeking an Operations Specialist / Manager to lead its Geneva-based operations and make our financial, administrative, HR and event systems as efficient as possible. Fluency in English and French is required to handle day-to-day operations and provide strategic support.
+      The Simon Institute for Longterm Governance (SI) is seeking an Operations Specialist / Manager to lead its Geneva-based operations and make our financial, administrative, HR and event systems as efficient as possible. Fluency in English and French is required to handle day-to-day operations and provide strategic support. [Apply here.](https://airtable.com/appLN90cujuQSnA5M/pag1xYu2HOdHZY0W6/form)
 
 
       ### Requirements
