@@ -84,7 +84,7 @@ textSections:
 
       * Salary: CHF 96,000 – 122,000. We consider a variety of factors when formulating an offer, including but not limited to, the role and responsibilities, work experience, training, skills, expertise, and internal equity. We’re willing to review the salary range for exceptional candidates.
 
-      * Start date: As soon as possible, with a strong preference to start before April.
+      * Start date: As soon as possible, with a strong preference to start in April.
 
       * Hours: Full-time, flexible hours, and occasional travel.
 
