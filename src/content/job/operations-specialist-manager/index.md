@@ -42,8 +42,7 @@ textSections:
 
 
       Financial management & budgeting:
-
-
+    
       * Develop and manage budgets and financial projections to ensure our fundraising and spending align with organizational goals and regulatory requirements.
 
       * Collaborate with SI’s fiduciary and banks on payments, accounting, and investments to optimize resource utilization and maintain transparent financial documentation.
@@ -52,8 +51,7 @@ textSections:
 
 
       Legal & compliance:
-
-
+    
       * Ensure compliance with local regulations, working closely with SI’s fiduciary and Geneva or Swiss-based institutions (Registre du Commerce, FER-CIAM, etc.).
 
       * Prepare and oversee legal documentation and contractual agreements, ensuring SI’s compliance with Swiss and local laws.
@@ -62,8 +60,7 @@ textSections:
 
 
       Human resources:
-
-
+    
       * Support daily HR operations including maintaining employee records, processing documentation for new hires, transfers, and separations, and ensuring all personnel files are complete and up-to-date.
 
       * Assist in recruitment processes with screening and evaluation of candidates, visa sponsorship, relocation support, and onboarding.
@@ -72,8 +69,7 @@ textSections:
 
 
       Office & events management:
-
-
+    
       * Manage relationships with SI’s local partners, service providers, and landlord to support the seamless implementation of our projects.
 
       * Oversee, analyze, and optimize logistical arrangements to develop effective infrastructure for the team and events.
