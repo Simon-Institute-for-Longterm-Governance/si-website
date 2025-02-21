@@ -35,7 +35,7 @@ textSections:
 
       * Flexibility to occasionally work outside standard business hours.
 
-      * Bonus: Experience organizing and managing high-profile events
+      * Bonus: Experience organizing and managing high-profile events.
 
 
       ### Core responsibilities
@@ -98,10 +98,11 @@ textSections:
 
       * Parental leave and support: We offer maternity and paternity benefits that go beyond Swiss legal requirements: this includes up to 6 months of maternity leave, 60 days of flexible paternity leave, 100% salary coverage during leave, flexibility to work from home, unlimited breastfeeding breaks, parental PTO for childhood difficulties, and the option to work at 80% while being paid 100% in the first year after childbirth.
 
-      * Fitness: We reimburse fitness expenses of up to CHF 600 per year for full-time employees and proportionately for part-time employees.
+      * Wellbeing: We will reimburse wellbeing expenses of up to CHF600 gross per year per – this might include fitness, therapy, coaching - or anything else to support your personal wellbeing.
 
 
       If you enjoy supporting people, planning, and juggling many different tasks, we think you’d add a lot of value to our team. This role offers unique insight into SI’s structure, priorities, and decisions. The ideal candidate brings a strong alignment with our mission and culture, as well as:
+
 
       * strong problem-solving and system-building skills; 
 
@@ -115,7 +116,9 @@ textSections:
 
       *The above list of duties contains the main duties and responsibilities for this position. However, in a small organization such as SI, staff members are expected to show flexibility in their approach to work and be willing to undertake other tasks that are reasonably allocated to them, but which may not be part of their regular list of duties. Whereas any task becomes a regular part of an employee’s responsibilities, the job description will be changed in consultation with the employee and their supervisor.*
 
-        ### Application process
+
+      ### Application process
+
 
       * Submit the [application form](https://airtable.com/appLN90cujuQSnA5M/pag1xYu2HOdHZY0W6/form). We expect this application form to take 30-60 minutes to fill in. Please do not spend more than an hour on it. We review candidates on a rolling basis and will close this round on March 16th.
 
