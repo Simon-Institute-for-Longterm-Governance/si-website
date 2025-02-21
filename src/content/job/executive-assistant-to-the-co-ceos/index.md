@@ -1,10 +1,10 @@
 ---
 hide: false
 title: Executive Assistant to the Co-CEOs
-teaserText: The Simon Institute for Longterm Governance (SI) is seeking an
+teaserText: SI is seeking an
   experienced Executive Assistant to support the Co-CEOs in all aspects of their
   work. This role is key to scaling SI’s impact and requires excellent
-  communication, adaptability, and prioritization skills.
+  communication, adaptability, and prioritization skills. [Apply here.](https://airtable.com/appWdg8T4hpGGr1Sn/pag1xYu2HOdHZY0W6/form)
 textSections:
   - content: >-
       ### Summary
