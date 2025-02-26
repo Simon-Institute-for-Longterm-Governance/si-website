@@ -11,7 +11,7 @@ isHighlighted: false
 ---
 In September 2024, the UN General Assembly adopted the [Global Digital Compact (GDC)](https://www.un.org/digital-emerging-technologies/global-digital-compact), which mandated the creation of the Independent International Scientific Panel on AI and the Global Dialogue on AI Governance. We have been following this process closely with an [interim report](https://www.simoninstitute.ch/blog/post/blueprints-design-options-for-the-independent-international-scientific-panel-on-ai-and-the-global-dialogue-on-ai-governance/) on design options, [workshops](https://www.simoninstitute.ch/blog/post/developing-the-modalities-of-the-independent-international-scientific-panel-on-ai-the-global-dialogue-on-ai-governance-a-workshop-series/) with stakeholders, and blog posts on [the dialogue](https://www.simoninstitute.ch/blog/post/distinguishing-between-internet-governance-and-ai-governance/) and on [the panel](https://www.simoninstitute.ch/blog/post/three-considerations-for-the-independent-international-scientific-panel-on-ai/). We are now happy to **[publish a full set of recommendations](https://drive.google.com/file/d/17mBzqt7foXThI9xcAP8gsTKan34Zk5Mv/view?usp=sharing)** on the set-up of these two institutions.
 
-We encourage stakeholders to read the full report. However, the following is a high-level overview of the suggested set-up:
+We encourage stakeholders to read **[the full report](https://drive.google.com/file/d/17mBzqt7foXThI9xcAP8gsTKan34Zk5Mv/view)**. However, the following is a high-level overview of the suggested set-up:
 
 ### Recommended elements of the panel
 
@@ -56,7 +56,7 @@ The Global Dialogue on AI Governance is designed as an inclusive, multi-track pr
 
 ### The process goes on
 
-This report reflects our current best effort to find a pragmatic design that is universal, scientific, and agile, and we hope that stakeholders view this as a constructive contribution.
+[This report](https://drive.google.com/file/d/17mBzqt7foXThI9xcAP8gsTKan34Zk5Mv/view) reflects our current best effort to find a pragmatic design that is universal, scientific, and agile, and we hope that stakeholders view this as a constructive contribution.
 
 Unfortunately, it is impossible to design the panel and dialogue in a way that will satisfy everyone on every single point. Hence, we do not only publish our recommendations, but we also share our reasoning for each building block in the report. Stakeholders are invited to reflect for themselves whether arguments should be weighed differently.
 
