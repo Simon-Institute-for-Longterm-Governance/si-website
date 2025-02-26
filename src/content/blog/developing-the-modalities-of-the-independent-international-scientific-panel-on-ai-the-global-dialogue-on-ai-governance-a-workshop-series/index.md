@@ -12,7 +12,7 @@ authors:
     page: alix-pham/index
 category: Facilitation
 tags: []
-isHighlighted: false
+isHighlighted: true
 ---
 In September 2024, the UN General Assembly adopted [the Global Digital Compact (GDC)](https://www.un.org/techenvoy/global-digital-compact), mandating the establishment of two new institutional mechanisms for governing AI:
 

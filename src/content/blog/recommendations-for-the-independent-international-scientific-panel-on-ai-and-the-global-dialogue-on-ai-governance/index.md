@@ -7,6 +7,7 @@ featuredImage: usersi._bright_watercolour_white_bright_light_blue-ish_colours__c
 authors:
   - name: Kevin Kohler
     page: kevin-kohler/index
+category: Policy Recommendation
 isHighlighted: false
 ---
 In September 2024, the UN General Assembly adopted the [Global Digital Compact (GDC)](https://www.un.org/digital-emerging-technologies/global-digital-compact), which mandated the creation of the Independent International Scientific Panel on AI and the Global Dialogue on AI Governance. We have been following this process closely with an [interim report](https://www.simoninstitute.ch/blog/post/blueprints-design-options-for-the-independent-international-scientific-panel-on-ai-and-the-global-dialogue-on-ai-governance/) on design options, [workshops](https://www.simoninstitute.ch/blog/post/developing-the-modalities-of-the-independent-international-scientific-panel-on-ai-the-global-dialogue-on-ai-governance-a-workshop-series/) with stakeholders, and blog posts on [the dialogue](https://www.simoninstitute.ch/blog/post/distinguishing-between-internet-governance-and-ai-governance/) and on [the panel](https://www.simoninstitute.ch/blog/post/three-considerations-for-the-independent-international-scientific-panel-on-ai/). We are now happy to **[publish a full set of recommendations](https://drive.google.com/file/d/17mBzqt7foXThI9xcAP8gsTKan34Zk5Mv/view?usp=sharing)** on the set-up of these two institutions.
