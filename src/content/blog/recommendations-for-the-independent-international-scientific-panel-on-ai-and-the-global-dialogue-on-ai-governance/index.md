@@ -13,11 +13,9 @@ In September 2024, the UN General Assembly adopted the [Global Digital Compact (
 
 We encourage stakeholders to read the full report. However, the following is a high-level overview of the suggested set-up:
 
-# Recommended elements of the panel
+### Recommended elements of the panel
 
-![A diagram of a scientific panel
-
-AI-generated content may be incorrect.](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcbnKF5OPp2hRHa18GM7s-fvuIosXQs6GyWXnBCW-Zk3BM8UHbMCLG2oBMc8hJSUR_NbiDXDi7wMMosLx8MO_o0jQ0UExdoFOVarSJ21VlugKgvl3uYylPLh_omI0C28EK0HN-Ve0ec51fHo2I9CQ?key=Tex1_ZVM9YA760I_RmUw6ozY)
+![](screenshot-2025-02-26-at-11.45.03.png)
 
 A well-designed international AI panel should balance inclusivity, scientific rigor, and practical efficiency. The following elements outline the basic structure we recommend:
 
@@ -31,11 +29,9 @@ A well-designed international AI panel should balance inclusivity, scientific ri
 
 We suggest the following concrete working groups:
 
-![A diagram of a business
+![](screenshot-2025-02-26-at-11.45.30.png)
 
-AI-generated content may be incorrect.](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc0XXsWJ3zpXBWKBEVaK8MqCGq7oSVKDECkePxJJMG_t-a-wrwnY2oJivFtUiPJrwQ6IH6YvDOmFr6x_Pe9BiOLZGoQoM6Y_a3PwzEfjA9qgCNEKw8w48j4RbzOLJTFkRGwWK90L48KkVJgX9cD1zA?key=Tex1_ZVM9YA760I_RmUw6ozY)
-
-# Recommended elements of the dialogue
+### Recommended elements of the dialogue
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcFA_5ONdBn2Elh4Gbq0GcBPcGQcgGYKvsKRNRErbKazHrQ6BgV-tUjMx8Jh2qDvAoMwDTyFFhp5TsRPTNngWZlC1hPtEgTxCyVkFKSM_FLNAuRit6F8VynRRsVl7fdqg26LluGW0bpdGB87zdb7DQ?key=Tex1_ZVM9YA760I_RmUw6ozY)
 
@@ -58,7 +54,7 @@ The Global Dialogue on AI Governance is designed as an inclusive, multi-track pr
 * High-Level Political Forum (HLPF, New York) could potentially host the government track, linking AI governance discussions to the broader UN sustainable development agenda.
 * High-Level Week (UNGA, New York) should feature an annual policy briefing by the Chair of the Scientific Panel, ensuring AI remains a priority at the highest levels. 
 
-# The process goes on
+### The process goes on
 
 This report reflects our current best effort to find a pragmatic design that is universal, scientific, and agile, and we hope that stakeholders view this as a constructive contribution.
 
