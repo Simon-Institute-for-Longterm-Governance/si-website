@@ -3,14 +3,6 @@ name: Jan Pieter Snoeij
 photo: alternative1.jpg
 group: Staff
 role: Economics of AI Fellow
-links:
-  website: ""
-  twitter: ""
-  linkedin: https://www.linkedin.com/in/janpietersnoeij/
-disableDetailPage: true
-seo:
-  title: ""
-  description: ""
 ---
 Jan Pieter is SI’s Economics of AI Fellow, researching the economic and geopolitical implications of transformative AI. His work examines how AI will reshape global economic development and how global governance can guide this transition to maximize benefits while mitigating global risks.
 

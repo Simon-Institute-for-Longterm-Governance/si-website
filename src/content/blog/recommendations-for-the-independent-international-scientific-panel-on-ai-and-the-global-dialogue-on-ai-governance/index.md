@@ -34,7 +34,7 @@ We suggest the following concrete working groups:
 
 ### Recommended elements of the dialogue
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcFA_5ONdBn2Elh4Gbq0GcBPcGQcgGYKvsKRNRErbKazHrQ6BgV-tUjMx8Jh2qDvAoMwDTyFFhp5TsRPTNngWZlC1hPtEgTxCyVkFKSM_FLNAuRit6F8VynRRsVl7fdqg26LluGW0bpdGB87zdb7DQ?key=Tex1_ZVM9YA760I_RmUw6ozY)
+![](unnamed.jpg)
 
 The Global Dialogue on AI Governance is designed as an inclusive, multi-track process that integrates governments, private sector representatives, civil society, and academic experts. To ensure its effectiveness, the dialogue must balance inclusivity, stakeholder engagement, and policy relevance.
 
@@ -49,7 +49,7 @@ The Global Dialogue on AI Governance is designed as an inclusive, multi-track pr
 
 **Co-located events:** The dialogue should be co-located with existing UN events to maximize participation, efficiency, and policy impact. We have considered events primarily based on thematic alignment and engaging relevant stakeholder groups.
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXch6Q9TezWeoVeZI98rRPFMUYoJ8XuxZlAnbuBB9vyHGGccmCFDwpZT80OoriUygsqz0wocaESXTj8c2NC2uR1Yv5nEYXTlnd-UWmQ2Qy5aijb-XkZTDhRrhwsfbhjfFgb4owADWoiO0S_z0J38lH8?key=Tex1_ZVM9YA760I_RmUw6ozY)
+![](unnamed.png)
 
 * AI for Good Summit (ITU, Geneva) should serve as the primary multistakeholder forum, leveraging its global AI governance track and strong UN agency participation.
 * High-Level Political Forum (HLPF, New York) could potentially host the government track, linking AI governance discussions to the broader UN sustainable development agenda.
