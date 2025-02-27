@@ -1,7 +1,7 @@
 ---
 name: Jan Pieter Snoeij
 photo: alternative1.jpg
-group: Staff
+group: Core team
 role: Economics of AI Fellow
 links:
   website: ""

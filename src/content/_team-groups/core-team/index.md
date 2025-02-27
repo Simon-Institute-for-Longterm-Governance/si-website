@@ -1,3 +1,3 @@
 ---
-name: Staff
+name: Core team
 ---
