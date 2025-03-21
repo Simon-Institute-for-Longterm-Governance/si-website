@@ -1,6 +1,6 @@
 ---
 hide: false
-title: Response to the Zero Draft on the Independent International Scientific
+title: Response to the Zero Draft of the Independent International Scientific
   Panel on AI and the Global Dialogue on AI Governance
 date: 2025-03-21T11:59:05.597Z
 featuredImage: screenshot-2025-03-21-at-10.34.12.png
