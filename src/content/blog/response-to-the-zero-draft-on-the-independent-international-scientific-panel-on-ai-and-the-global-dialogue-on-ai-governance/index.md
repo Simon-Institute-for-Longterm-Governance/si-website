@@ -47,7 +47,7 @@ The zero draft suggests an Advisory Committee limited to forty members elected b
 
 Recalling that the [final report](https://www.un.org/sites/un2.un.org/files/governing_ai_for_humanity_final_report_en.pdf#page=9) of the High-level Advisory Body on AI has framed the scientific panel as an inclusive process that fills a specific gap by engaging all UN member states. **We still think that universal membership in the Advisory Committee is desirable and preferred.**
 
-# The need for clear functions for the Advisory Committee
+### The need for clear functions for the Advisory Committee
 
 The current wording on the role of the Advisory Committee is that it “shall contribute to the Panel´s outputs led by the Expert Committee”. This is vague and opens the door to too many interpretations that would undermine the scientific independence or political relevance of the panel. In line with our [recommendations](https://www.simoninstitute.ch/blog/post/recommendations-for-the-independent-international-scientific-panel-on-ai-and-the-global-dialogue-on-ai-governance/), we suggest the following:
 
