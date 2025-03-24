@@ -1,16 +1,16 @@
 ---
 hide: false
 title: Executive Assistant to the Co-CEOs
-teaserText: SI is seeking an
-  experienced Executive Assistant to support the Co-CEOs in all aspects of their
-  work. This role is key to scaling SI’s impact and requires excellent
-  communication, adaptability, and prioritization skills. [Apply here.](https://airtable.com/appWdg8T4hpGGr1Sn/pag1xYu2HOdHZY0W6/form)
+teaserText: "SI is seeking an experienced Executive Assistant to support the
+  Co-CEOs in all aspects of their work. This role is key to scaling SI’s impact
+  and requires excellent communication, adaptability, and prioritization skills.
+  "
 textSections:
   - content: >-
       ### Summary
 
 
-      The Simon Institute for Longterm Governance (SI) is seeking an experienced Executive Assistant to support the Co-CEOs in all aspects of their work. This role is key to scaling SI’s impact and requires excellent communication, adaptability, and prioritization skills. [Apply here.](https://airtable.com/appWdg8T4hpGGr1Sn/pag1xYu2HOdHZY0W6/form)
+      The Simon Institute for Longterm Governance (SI) is seeking an experienced Executive Assistant to support the Co-CEOs in all aspects of their work. This role is key to scaling SI’s impact and requires excellent communication, adaptability, and prioritization skills. [](https://airtable.com/appWdg8T4hpGGr1Sn/pag1xYu2HOdHZY0W6/form)
 
 
       ### Requirements
@@ -102,7 +102,7 @@ textSections:
       ### Application process
 
 
-      * Submit the [application form](https://airtable.com/appWdg8T4hpGGr1Sn/pag1xYu2HOdHZY0W6/form). We expect this application form to take 30-60 minutes to fill in. Please do not spend more than an hour on it. We review candidates on a rolling basis and will close this round on March 16th.
+      * Submit the application form. We expect this application form to take 30-60 minutes to fill in. Please do not spend more than an hour on it. We review candidates on a rolling basis and will close this round on March 16th. **(Applications are now closed.)**
 
       * Complete 1-2 work tests designed to simulate the work you would do if hired and/or evaluate certain skills important for success in the role.
 

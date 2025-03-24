@@ -1,17 +1,16 @@
 ---
 hide: false
 title: Operations Specialist / Manager
-teaserText: "SI is seeking an
-  Operations Specialist / Manager to lead its Geneva-based operations and make
-  our financial, administrative, HR and event systems as efficient as possible.
-  Fluency in English and French is required to handle day-to-day operations and
-  provide strategic support. [Apply here.](https://airtable.com/appLN90cujuQSnA5M/pag1xYu2HOdHZY0W6/form)"
+teaserText: "SI is seeking an Operations Specialist / Manager to lead its
+  Geneva-based operations and make our financial, administrative, HR and event
+  systems as efficient as possible. Fluency in English and French is required to
+  handle day-to-day operations and provide strategic support. "
 textSections:
   - content: >-
       ### Summary
 
 
-      The Simon Institute for Longterm Governance (SI) is seeking an Operations Specialist / Manager to lead its Geneva-based operations and make our financial, administrative, HR and event systems as efficient as possible. Fluency in English and French is required to handle day-to-day operations and provide strategic support. [Apply here.](https://airtable.com/appLN90cujuQSnA5M/pag1xYu2HOdHZY0W6/form)
+      The Simon Institute for Longterm Governance (SI) is seeking an Operations Specialist / Manager to lead its Geneva-based operations and make our financial, administrative, HR and event systems as efficient as possible. Fluency in English and French is required to handle day-to-day operations and provide strategic support. [](https://airtable.com/appLN90cujuQSnA5M/pag1xYu2HOdHZY0W6/form)
 
 
       ### Requirements
@@ -42,7 +41,8 @@ textSections:
 
 
       Financial management & budgeting:
-    
+
+
       * Develop and manage budgets and financial projections to ensure our fundraising and spending align with organizational goals and regulatory requirements.
 
       * Collaborate with SI’s fiduciary and banks on payments, accounting, and investments to optimize resource utilization and maintain transparent financial documentation.
@@ -51,7 +51,8 @@ textSections:
 
 
       Legal & compliance:
-    
+
+
       * Ensure compliance with local regulations, working closely with SI’s fiduciary and Geneva or Swiss-based institutions (Registre du Commerce, FER-CIAM, etc.).
 
       * Prepare and oversee legal documentation and contractual agreements, ensuring SI’s compliance with Swiss and local laws.
@@ -60,7 +61,8 @@ textSections:
 
 
       Human resources:
-    
+
+
       * Support daily HR operations including maintaining employee records, processing documentation for new hires, transfers, and separations, and ensuring all personnel files are complete and up-to-date.
 
       * Assist in recruitment processes with screening and evaluation of candidates, visa sponsorship, relocation support, and onboarding.
@@ -69,7 +71,8 @@ textSections:
 
 
       Office & events management:
-    
+
+
       * Manage relationships with SI’s local partners, service providers, and landlord to support the seamless implementation of our projects.
 
       * Oversee, analyze, and optimize logistical arrangements to develop effective infrastructure for the team and events.
@@ -120,7 +123,7 @@ textSections:
       ### Application process
 
 
-      * Submit the [application form](https://airtable.com/appLN90cujuQSnA5M/pag1xYu2HOdHZY0W6/form). We expect this application form to take 30-60 minutes to fill in. Please do not spend more than an hour on it. We review candidates on a rolling basis and will close this round on March 16th.
+      * Submit the application form. We expect this application form to take 30-60 minutes to fill in. Please do not spend more than an hour on it. We review candidates on a rolling basis and will close this round on March 16th. **(Applications are now closed.)**
 
       * Complete 1-2 work tests designed to simulate the work you would do if hired and/or evaluate certain skills important for success in the role.
 
