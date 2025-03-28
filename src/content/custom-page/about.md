@@ -82,8 +82,9 @@ textSections:
       **2021-2022** [Activity Report](https://docs.google.com/document/d/1uDlrpuaC7IX_TcRixXYu4BrhHRSi90xOhVvd9RVDqao/edit?usp=sharing) and [Financial Report](https://drive.google.com/file/d/1Rfv7nb0wKxtceld9sd2DsXgKHj-zKblG/view)
 
 
-      **2023** [Activity Report and Financial Report](https://drive.google.com/file/d/1u1MUgfh7N7b-MgO0fSjVUrbe13MmJN3N/view?usp=sharing)
+      **2023** [Activity Report](https://drive.google.com/file/d/1u1MUgfh7N7b-MgO0fSjVUrbe13MmJN3N/view?usp=sharing) and [Financial Report](https://drive.google.com/file/d/1M0O6yGvDaYDHTsEjyOGXRVBJ4b6jmv4v/view?usp=sharing)
 
+      **2024** [Financial Report](https://drive.google.com/file/d/1TbKdjG0zh_Kp3Z68-YQP3nL4xwUi2EbG/view?usp=sharing)
 
       As we're working on finalizing our 2024 reports, please **[see here](https://docs.google.com/document/d/1eN9e3GLyDSaQK82l4mi7yom6ZciOBb164I7MqMdzHnY/edit?tab=t.0#heading=h.8gb0munb48rw)** for our latest funding information!
 teamSection:
