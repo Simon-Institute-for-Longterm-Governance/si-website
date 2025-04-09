@@ -30,11 +30,11 @@ In comparison, the zero draft by the co-facilitators proposes two main steering 
 * An Expert Committee, for which there is an open nomination process with selection based on scientific criteria by the UN Secretary General. 
 * The working groups consist of members of both groups, but the Expert Committee can invite more external experts as needed.
 
-![](model1.jpg)
+![](cofacmodel.jpg)
 
 In contrast, the G77 suggests universal participation of UN Member States in a plenary. This de-facto replaces the Advisory Committee, with the important caveat, that plenary members are there to provide input and review, not to draft the report. Furthermore, the G77 has renamed the Expert Committee as the Bureau, which oversees the scientific work, but is elected by the plenary to be geographically representative. The terms “plenary” and “bureau” align with the IPCC.
 
-![](model2.jpg)
+![](g77model.jpg)
 
 ## What the G77 proposal gets right
 
