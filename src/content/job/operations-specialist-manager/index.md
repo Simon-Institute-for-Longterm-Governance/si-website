@@ -1,5 +1,5 @@
 ---
-hide: false
+hide: true
 title: Operations Specialist / Manager
 teaserText: "SI is seeking an Operations Specialist / Manager to lead its
   Geneva-based operations and make our financial, administrative, HR and event
