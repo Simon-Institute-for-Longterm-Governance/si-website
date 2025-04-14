@@ -1,5 +1,5 @@
 ---
-hide: false
+hide: true
 title: Executive Assistant to the Co-CEOs
 teaserText: "SI is seeking an experienced Executive Assistant to support the
   Co-CEOs in all aspects of their work. This role is key to scaling SI’s impact
