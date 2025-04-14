@@ -9,5 +9,5 @@ items:
     url: /contact/
   - title: Support Us
     url: /donate/
-  - title: Jobs
-    url: /jobs/
+#  - title: Jobs
+#    url: /jobs/
