@@ -1,7 +1,7 @@
 ---
 name: Cecilia Saura Drago
 photo: si-headshots-42.jpg
-group: Core team
+group: Alumni
 role: Director of operations
 links:
   linkedin: https://www.linkedin.com/in/csauradrago/
