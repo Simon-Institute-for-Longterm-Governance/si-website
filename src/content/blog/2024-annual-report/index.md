@@ -16,7 +16,7 @@ isHighlighted: false
 
 In 2024, our team worked to do our part in the broader AI governance landscape, by anticipating key developments, building coalitions, and leveraging our strategic positioning in **New York and Geneva** to advance practical policy solutions. We helped inform international AI governance frameworks, built alliances across the multilateral system, provided expert guidance on institutional design, and facilitated dialogue between the tech community and multilateral institutions.
 
-[Our annual report](<We helped inform international AI governance frameworks>) provides an overview of our work in **2024**, covering key figures, progress on our **2023-2025 strategy**, notable achievements, and financial updates. For a high-level overview, we: 
+[Our annual report](https://drive.google.com/file/d/1ImsIgoLUciI3eaT755R1ehHo0tugp_Ft/view?usp=sharing) provides an overview of our work in **2024**, covering key figures, progress on our **2023-2025 strategy**, notable achievements, and financial updates. For a high-level overview, we: 
 
 * Supported the **UN's Global Digital Compact (GDC) process** – an international framework establishing some of the first truly global commitments for governing digital and emerging technologies, which included, among others, an agreement to establish the **Independent International Scientific Panel on AI** and **Global Dialogue on AI Governance**.
 
