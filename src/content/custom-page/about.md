@@ -85,7 +85,7 @@ textSections:
       **2023** [Activity Report](https://drive.google.com/file/d/1u1MUgfh7N7b-MgO0fSjVUrbe13MmJN3N/view?usp=sharing) and [Financial Report](https://drive.google.com/file/d/1M0O6yGvDaYDHTsEjyOGXRVBJ4b6jmv4v/view?usp=sharing)
 
 
-      **2024** [Financial Report](https://drive.google.com/file/d/1QmIeoNKk0IqdqFrgwCeXI5UVkzPXtLqa/view?usp=sharing)
+      **2024** [Activity Report](https://drive.google.com/file/d/1ImsIgoLUciI3eaT755R1ehHo0tugp_Ft/view) and [Financial Report](https://drive.google.com/file/d/1QmIeoNKk0IqdqFrgwCeXI5UVkzPXtLqa/view?usp=sharing)
 teamSection:
   title: Our team
   groups:
