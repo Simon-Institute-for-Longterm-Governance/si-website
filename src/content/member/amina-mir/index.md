@@ -1,6 +1,6 @@
 ---
 name: Amina Mir
-photo: amina.png
+photo: img_1724.jpg
 group: Core team
 role: Executive Assistant to the co-CEOs
 links:
