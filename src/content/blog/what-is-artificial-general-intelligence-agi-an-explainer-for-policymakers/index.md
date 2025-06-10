@@ -2,7 +2,7 @@
 hide: false
 title: What is Artificial General Intelligence (AGI)? An explainer for policymakers
 date: 2025-06-10T07:55:30.047Z
-featuredImage: usersi._editorial_illustration_showing_robot_and_humans_working_68349440-041d-4304-9e44-0fa8693056eb.webp
+featuredImage: usersi._editorial_illustration_showing_robot_and_diverse_women__4925a1bd-720f-4618-a212-07792fd780be.webp
 authors:
   - name: Kevin Kohler
     page: kevin-kohler/index
