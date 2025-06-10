@@ -56,7 +56,7 @@ Now that we have seen the range of AGI definitions, we can see why headlines lik
 
 The companies building AGI systems have all understood that [the definitional ambiguity](https://www.youtube.com/watch?v=gAaCqj6j5sQ&t=4623s) of AGI is a challenge and have created their own “levels of AGI” based on the performance and risks associated with advanced AI systems.
 
-#### **A) Deepmind’s Levels of AGI**
+#### A) Deepmind’s Levels of AGI
 
 In 2024, a group of Google Deepmind researchers [published](https://arxiv.org/pdf/2311.02462) a categorization that distinguishes between different levels of AGI. This group notably includes Shane Legg, the co-founder of Deepmind, who coined the term Artificial General Intelligence, and has written a PhD on intelligence definitions.
 
