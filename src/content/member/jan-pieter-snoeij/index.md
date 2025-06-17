@@ -2,7 +2,7 @@
 name: Jan Pieter Snoeij
 photo: alternative1.jpg
 group: Core team
-role: Economics of AI Fellow
+role: Senior Tech Diplomacy Specialist
 links:
   twitter: https://x.com/jpsnoeij
   linkedin: https://www.linkedin.com/in/janpietersnoeij/
