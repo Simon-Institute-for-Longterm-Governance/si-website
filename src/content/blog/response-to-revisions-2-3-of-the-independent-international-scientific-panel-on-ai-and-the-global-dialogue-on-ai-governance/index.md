@@ -7,6 +7,8 @@ featuredImage: esj5kdza.jpg
 authors:
   - name: Kevin Kohler
     page: kevin-kohler/index
+  - name: Maxime Stauffer
+    page: maxime-stauffer/index
 category: Research
 isHighlighted: false
 ---
