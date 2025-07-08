@@ -18,7 +18,7 @@ Since then, the idea of a “CERN for AI” has gained momentum in AI governance
 
 At the same time, the “CERN for AI” label does not always refer to the same underlying ideas. Some proponents imagine a publicly funded counterweight to commercial AI labs, focused on open science and AI applications for socially beneficial purposes. Others imagine an International AI Safety Institute, that tests frontier AI models and advises regulators. Yet others envision it as a way to ensure European competitiveness in compute infrastructure. Yet, yet, others imagine it as a joint international project to develop frontier AI models.
 
-This discussion paper is intended as an input to the [Geneva Security Debate](https://www.gcsp.ch/events/cern-ai-models-international-technical-cooperation-ai-geneva-security-debate) hosted on July 10, 2025, at the Geneva Centre for Security Policy on the margins of the AI for Good Summit. 
+This blog post is intended as an input to the [Geneva Security Debate](https://www.gcsp.ch/events/cern-ai-models-international-technical-cooperation-ai-geneva-security-debate) hosted on July 10, 2025, at the Geneva Centre for Security Policy on the margins of the AI for Good Summit. 
 
 The first section offers context on the structure and historical motivations for CERN. The second section provides a comparison of 14 prominent proposals and 3 existing projects that have used the “CERN for AI” label. Finally, a few key discussion questions are highlighted.
 
@@ -107,7 +107,7 @@ To manage the ballooning mental complexity of divergent “CERN for AI” propos
 * **[Sastry et al.](https://arxiv.org/pdf/2402.08797) (one option):** Proposed a “CERN for Frontier AI” with shared model access.
 * **[Brundage](https://milesbrundage.substack.com/p/my-recent-lecture-at-berkeley-and):** Recommended a 5-4-5 plan: First achieve RAND [security level 5](https://www.rand.org/pubs/research_reports/RRA2849-1.html) to protect AI model weights. Then figure out how to achieve Anthropic’s [AI Safety Level 4](https://www-cdn.anthropic.com/872c653b2d0501d6ab44cf87f43e1dc4853e4d37.pdf). Then build and distribute the benefits of [level 5 AGI](https://www.bloomberg.com/news/articles/2024-07-11/openai-sets-levels-to-track-progress-toward-superintelligent-ai) capabilities defined by OpenAI as AI systems resembling the behavior and intelligence of a human-run organization.
 
-## Open questions
+## 3. Open questions
 
 The following are some relevant discussion questions with regards to “CERN for AI” models.
 
@@ -146,3 +146,7 @@ The advantages and disadvantages of these designs depend on a range of factors, 
 ### e) How does “CERN for AI” compare to other models for international technical cooperation on AI and/or European competitiveness in AI? 
 
 It’s good to consider a broader range of analogies and models for the goal that “CERN for AI” aims to achieve. For example, Europe has top academic talent, strong regulatory frameworks, and a strong tradition of public investment. However, it lags behind the US and China in its commercial AI ecosystem. What mix of public-private coordination might be needed to foster both competitiveness and trustworthiness? What other models of international technical cooperation should be considered?
+
+## Join the discussion
+
+To explore these questions and more, join us on Thursday, July 10, 18:30-20:00 for the Geneva Security Debate “CERN for AI: Models for International Technical Cooperation in AI” hosted at the Geneva Centre for Security Policy. Please [register here](https://www.gcsp.ch/events/cern-ai-models-international-technical-cooperation-ai-geneva-security-debate).
