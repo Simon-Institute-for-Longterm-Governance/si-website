@@ -15,7 +15,7 @@ The International AI Safety Report was one of the outcomes of the [AI Safety Sum
 
 The following were some of the key lessons discussed at our event:
 
-##### **a)    We need both trusted senior experts broad expertise  and more junior specialists on specific topics**
+##### **a) We need both trusted senior experts broad expertise  and more junior specialists on specific topics**
 
 There are a limited number of top AI experts, and they are in very high demand. To ensure that a panel has scientific and political credibility, it needs trusted senior experts that can guide the overall scientific work. At the same time, on many subtopics, there are only a handful of experts in the world (who are sometimes younger and not as credentialed), and there needs to be freedom to engage these experts to draft substantive content.
 
