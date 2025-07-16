@@ -1,6 +1,6 @@
 ---
 hide: false
-title: Three requirements for a “CERN for AI”
+title: Three requirements for a “CERN for AI” – a Geneva Security Debate
 date: 2025-07-16T11:13:25.784Z
 featuredImage: 20250716_cernforaievent.jpg
 authors:
