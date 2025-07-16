@@ -28,3 +28,5 @@ Technology is moving fast and we are in a challenging geopolitical environment. 
 It will take several years for Europe’s new [AI Gigafactories](https://ec.europa.eu/commission/presscorner/detail/en/ip_25_467) to become operational. However, a CERN for AI could start its mission immediately by allocating GPU hours from public and commercial clouds to researchers. Similarly, while it would be impossible to create a “de novo” AI talent hub within a brief period of time, an existing AI talent ecosystem can be chosen as a starting point for a CERN for AI hub.
 
 *A recording of the event by GCSP will soon be available [here](https://www.youtube.com/@thegcsp).*
+
+*Photo credit: GCSP*
