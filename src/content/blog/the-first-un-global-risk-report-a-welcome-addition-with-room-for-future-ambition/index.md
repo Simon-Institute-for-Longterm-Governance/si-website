@@ -13,7 +13,7 @@ authors:
 category: Research
 isHighlighted: false
 ---
-In early July, the UN released its long-awaited, inaugural [Global Risk Report](https://unglobalriskreport.org/UNHQ-GlobalRiskReport-WEB-FIN.pdf). The report is based on a risk perception survey of 1,111 stakeholders from across the multilateral system, including UN Member States, UN employees, civil society, private sector, risk experts, and academics. The survey asked respondents to rate on a scale of 1 to 7 how likely 28 risks were to negatively impact a large portion of humanity by 2050 and how severe the impacts of each would be if the risk were to occur by 2050. Risk importance seems to have been defined as the product of the two.
+In early July, the UN released its long-awaited, inaugural [Global Risk Report](https://unglobalriskreport.org/UNHQ-GlobalRiskReport-WEB-FIN.pdf). The report is based on a risk perception survey of 1,000+ stakeholders from across the multilateral system, including UN Member States, UN employees, civil society, private sector, risk experts, and academics. The survey asked respondents to rate on a scale of 1 to 7 how likely 28 risks were to negatively impact a large portion of humanity by 2050 and how severe the impacts of each would be if the risk were to occur by 2050. Risk importance seems to have been defined as the product of the two.
 
 “Climate Change Inaction” was perceived as the #1 most important global risk by respondents.
 
@@ -62,15 +62,13 @@ Risk perception reports often mix the aims of a representative survey with those
 * A representative survey aims to reflect the perceptions and opinions of a reference population. This is best achieved with a large sample size and by adjusting for demographic differences between the survey participants and the reference population. In a representative survey it can also be interesting to break down results by various demographic criteria as for example provided in the “[risk profiles](https://www.weforum.org/publications/global-risks-report-2025/data-on-global-risk-perceptions-2025/)” by the World Economic Forum.
 * An expert survey aims to reflect the consensus among individuals specifically invited for their relevant expertise. It may want to consider covering different aspects of relevant expertise, but will not aim to be representative of the population at large and it is fine to have a lower absolute number of respondents. 
 
-
-
 ### 2. Rating risks on a qualitative scale has drawbacks
 
 The Global Risk Report evaluates risks on a qualitative scale from 1 to 7. This is easy for survey respondents and captures some variation for likelihood and severity. However, it also comes with inherent limitations. There is no guarantee that survey respondents assign the same likelihood/severity ranges to these categories, and different risks on a survey response list may span multiple orders of magnitude in likelihood and impact.
 
 First, if we zoom out and project the risk perception on x- and y-axes that reflect the full possible answering range, all 28 risks form a cluster. This hints at range compression and centering bias, which are [known cognitive biases](https://css.ethz.ch/content/dam/ethz/special-interest/gess/cis/center-for-securities-studies/pdfs/RR-Reports-2023-National-Risk-Assessments-of-Cross-Border-Risks.pdf#page=29) for evaluations on a qualitative scale from 1-7.
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdRuKrjgZSrNHUPRWoN-mytTkOE5UAZwJcMriLVRMkrO_Z6vNR3ZJK7_Wl0yaZWDUe9rr54DO3cBFaw1vRBldrrGYpHyvWDijqJvoHS8EMenoy63qQeE3YbioGexG2wAj2v6XTzYg?key=PdLMzzFY2lyQUxWLoaExnA) 
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdRuKrjgZSrNHUPRWoN-mytTkOE5UAZwJcMriLVRMkrO_Z6vNR3ZJK7_Wl0yaZWDUe9rr54DO3cBFaw1vRBldrrGYpHyvWDijqJvoHS8EMenoy63qQeE3YbioGexG2wAj2v6XTzYg?key=PdLMzzFY2lyQUxWLoaExnA)
 
 *Risk preparedness & risk importance matrix with full axes. Data from the UN Global Risks Report. (2025). Data for Importance from Fig. 1, for Preparedness from Fig. 7.* 
 
